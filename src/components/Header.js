@@ -21,7 +21,7 @@ const Header = () => {
                     <div className='row align-items-center'>
                         <div className='col-2'>
                             <h2>
-                                <Link className='text-white mb-2' to="/" >Dev Corner</Link>
+                                <Link className='text-white mb-2' to="/" >Shopzi</Link>
                             </h2>
                         </div>
                         <div className='col-5'>
@@ -76,8 +76,6 @@ const Header = () => {
 
                                     </Link>
                                 </div>
-
-
                             </div>
                         </div>
                     </div>
@@ -109,7 +107,7 @@ const Header = () => {
                                         <NavLink to="/" >Home</NavLink>
                                         <NavLink to="/product" >Our Store</NavLink>
                                         <NavLink to="/blogs" >Blog</NavLink>
-                                       
+
                                     </div>
                                 </div>
 

@@ -33,7 +33,7 @@ function App() {
             <Route path="forgot-password" element={<Forgotpassword />} />
             <Route path="signup" element={<Signup />} />
             <Route path="resetpassword" element={<Resetpassword />} />
-            
+
           </Route>
         </Routes>
       </BrowserRouter>
